@@ -1,8 +1,13 @@
 # Mergado_test
 Interview test from Mergado
 # Structure of the repository:
-1. Solutions as separate files;
-2. Jupyter notebook with solutions;
+1. Solutions as separate files:
+    * * [Solution 1](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_1.py)
+    * * [Solution 2](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_2.py)
+    * * [Solution 3](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_3.py)
+    * * [Solution 4](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_4.py)
+    * * [Solution 5](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_5.py)
+3. [Jupyter notebook](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_tech_interview_solution.ipynb) with solutions;
 
 # Task description:
 ## Obecně
@@ -22,7 +27,7 @@ Příklady:
 word_chain({'goose', 'dog', 'ethanol'}) == 3  # dog – goose – ethanol
 word_chain({'why', 'new', 'neural', 'moon'}) == 3  # (moon – new – why)
 ```
-[Solution](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_1.py)
+#### [Solution](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_1.py)
 
 ### Úkol 2 - Prvočísla a palindromy
 - Připravte program, který vypíše první prvočíslo, které je větší než uživatelem zadaná hodnota a které je zároveň palindromem.
@@ -33,6 +38,8 @@ word_chain({'why', 'new', 'neural', 'moon'}) == 3  # (moon – new – why)
 | 100      | 101             |
 | 100000   | 1003001         |
 | xy       | Invalid input!  |
+
+#### [Solution](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_2.py)
 
 ### Úkol 3 - Hokej
 - Z webu https://isport.blesk.cz/vysledky/hokej/liga?action=season&season=3089 vyscrapujte výsledky všechny zápasů
@@ -54,6 +61,7 @@ word_chain({'why', 'new', 'neural', 'moon'}) == 3  # (moon – new – why)
 19. 4. jsme porazili Třinec
 22. 4. jsme porazili Třinec
 ```
+##### [Solution](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_3.py)
 
 ### Úkol 4 - Validace textového souboru
 - Připravte script pro validaci [tohoto](https://pastebin.com/tNmieVFn) CSV souboru ve formátu:
@@ -71,6 +79,7 @@ Missing author on line: 149
 Error! 3 column(s) on line 185!
 Invalid price on line: 224
 ```
+##### [Solution](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_4.py)
 
 ### Úkol 5 - Třídy:
 Napište třídu ``Warrior`` s atributy ``name`` a ``maximum_health``, dynamickým read-only atributem ``is_alive`` a metodami pro sčítání (``+``), odčítání (``-``) a výpisu informací o warriorovi. Popis atributů a metod:
@@ -98,6 +107,7 @@ child = xena + conan
 # child.name == "Xena Barbar Conan"
 # child.maximum_health == 3
 
+
 fight = xena - conan
 # fight is None
 # xena.is_alive == False
@@ -107,3 +117,4 @@ fight = xena - conan
 child_2 = xena + conan
 # child_2 is None
 ```
+##### [Solution](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_5.py)
