@@ -2,11 +2,11 @@
 Interview test from Mergado
 # Structure of the repository:
 1. Solutions as separate files:
-    * * [Solution 1](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_1.py)
-    * * [Solution 2](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_2.py)
-    * * [Solution 3](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_3.py)
-    * * [Solution 4](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_4.py)
-    * * [Solution 5](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_5.py)
+    * [Solution 1](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_1.py)
+    * [Solution 2](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_2.py)
+    * [Solution 3](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_3.py)
+    * [Solution 4](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_4.py)
+    * [Solution 5](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_5.py)
 3. [Jupyter notebook](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_tech_interview_solution.ipynb) with solutions;
 
 # Task description:
