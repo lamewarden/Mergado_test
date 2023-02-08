@@ -1,5 +1,5 @@
 # Mergado_test
-Interview test from Mergado for Iva Kashkan (me).
+Interview test from Mergado for Ivan Kashkan (me).
 # Structure of the repository:
 1. Solutions as separate files:
     * [Solution 1](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_1.py)
