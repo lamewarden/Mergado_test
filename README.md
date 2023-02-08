@@ -1,7 +1,7 @@
 # Mergado_test
 Interview test from Mergado
 # Structure of the repository:
-1. Solution as separate files;
+1. Solutions as separate files;
 2. Jupyter notebook with solutions;
 
 # Task description:
@@ -22,7 +22,7 @@ Příklady:
 word_chain({'goose', 'dog', 'ethanol'}) == 3  # dog – goose – ethanol
 word_chain({'why', 'new', 'neural', 'moon'}) == 3  # (moon – new – why)
 ```
-
+[Solution](https://github.com/lamewarden/Mergado_test/blob/main/Kashkan_solution_1.py)
 
 ### Úkol 2 - Prvočísla a palindromy
 - Připravte program, který vypíše první prvočíslo, které je větší než uživatelem zadaná hodnota a které je zároveň palindromem.
